@@ -2,7 +2,7 @@
 
 Teste realizado no Apache2, rodando em um amazon-linux-2
 
-Framwork usado: Lumen (8.2.4) (Laravel Components ^8.0)
+Framework usado: Lumen (8.2.4) (Laravel Components ^8.0)
 
 Versão do PHP: 8.0.8 
 
