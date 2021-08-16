@@ -19,9 +19,9 @@ Mbstring PHP Extension
 ## Instalando
 
 
-$ mkdir teste123milhas
+$ mkdir 123
 
-$ cd teste123milhas
+$ cd 123
 
 $ git clone https://github.com/guilherme8787/123.git
 
